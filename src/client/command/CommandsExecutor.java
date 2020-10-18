@@ -248,9 +248,9 @@ public class CommandsExecutor {
         addCommand("warp", 2, WarpCommand.class);
         addCommand(new String[]{"warphere", "summon"}, 2, SummonCommand.class);
         addCommand(new String[]{"warpto", "reach", "follow"}, 2, ReachCommand.class);
-        addCommand("gmshop", 2, GmShopCommand.class);
+        addCommand("gmshop", 2, GmShopCommand.class); // =======
         addCommand("heal", 2, HealCommand.class);
-        addCommand("item", 2, ItemCommand.class);
+        addCommand("item", 2, ItemCommand.class); // =======
         addCommand("drop", 2, ItemDropCommand.class);
         addCommand("level", 2, LevelCommand.class);
         addCommand("levelpro", 2, LevelProCommand.class);
@@ -340,6 +340,8 @@ public class CommandsExecutor {
     private void registerLv4Commands(){
         levelCommandsCursor = new Pair<>((List<String>) new ArrayList<String>(), (List<String>) new ArrayList<String>());
         
+        //addCommand("gmshop", 4, GmShopCommand.class);
+        //addCommand("item", 4, ItemCommand.class);
         addCommand("servermessage", 4, ServerMessageCommand.class);
         addCommand("proitem", 4, ProItemCommand.class);
         addCommand("seteqstat", 4, SetEqStatCommand.class);

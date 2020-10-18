@@ -139,15 +139,14 @@
       <int name="40" value="4000012" />
       <int name="41" value="4001348" />
       <int name="42" value="4001369" />
-      <int name="43" value="4001370" />
-      <int name="44" value="4010004" />
-      <int name="45" value="4010005" />
-      <int name="46" value="4020002" />
-      <int name="47" value="4020003" />
-      <int name="48" value="4031146" />
-      <int name="49" value="4032317" />
-      <int name="50" value="4032318" />
-      <int name="51" value="4032379" />
+      <int name="43" value="4010004" />
+      <int name="44" value="4010005" />
+      <int name="45" value="4020002" />
+      <int name="46" value="4020003" />
+      <int name="47" value="4031146" />
+      <int name="48" value="4032317" />
+      <int name="49" value="4032318" />
+      <int name="50" value="4032379" />
     </imgdir>
     <string name="episode" value=" Lv. :  15\nForm : Plant\nSpecial Trait : Resistant to Poison Attribute Attacks.\n\nA Green Mushroom monster with a dull looking cap. Is a transformed version of the small poisonous mushrooms and is therefore immune to poison. These mushrooms are often spotted around construction sites or nearby dungeon entrances. These mushrooms are most likely poisonous so beware not to eat them no matter how hungry you are!" />
   </imgdir>
@@ -195,14 +194,13 @@
       <int name="22" value="4001347" />
       <int name="23" value="4001356" />
       <int name="24" value="4001360" />
-      <int name="25" value="4001367" />
-      <int name="26" value="4001371" />
-      <int name="27" value="4010001" />
-      <int name="28" value="4020000" />
-      <int name="29" value="4030009" />
-      <int name="30" value="4031773" />
-      <int name="31" value="4032374" />
-      <int name="32" value="4032376" />
+      <int name="25" value="4001371" />
+      <int name="26" value="4010001" />
+      <int name="27" value="4020000" />
+      <int name="28" value="4030009" />
+      <int name="29" value="4031773" />
+      <int name="30" value="4032374" />
+      <int name="31" value="4032376" />
     </imgdir>
     <string name="episode" value=" Lv. :  10\nForm : Plant\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nA slightly darker version of Stump, the tree stump monster. These monsters are often spotted around mountain highlands. While they are very similar to the Stump in their dried-up appearance, but these Dark Stumps have some moisture left in their bodies, still growing leaves somewhere inside their body. The Dark Stump has a lot stronger attacks and defenses as compared to Stump, so be careful not to confuse the two, especially if you're a beginner!" />
   </imgdir>
@@ -452,12 +450,11 @@
       <int name="21" value="4001350" />
       <int name="22" value="4001357" />
       <int name="23" value="4001370" />
-      <int name="24" value="4001371" />
-      <int name="25" value="4003004" />
-      <int name="26" value="4010002" />
-      <int name="27" value="4020001" />
-      <int name="28" value="4030012" />
-      <int name="29" value="4032377" />
+      <int name="24" value="4003004" />
+      <int name="25" value="4010002" />
+      <int name="26" value="4020001" />
+      <int name="27" value="4030012" />
+      <int name="28" value="4032377" />
     </imgdir>
     <string name="episode" value=" Lv. :  10\nForm : Mammal\n\nThere's always a sense of order, even in the world of Pigs. The most powerful of them wear a bright red ribbon which symbolizes their overpowering strength over others, and are treated as royalty. You don't believe it? Just go and try to hunt one of these Ribbon Pigs. You'll see that Ribbon Pigs are much more powerful than ordinary Pigs." />
   </imgdir>
@@ -1071,11 +1068,10 @@
       <int name="34" value="2381007" />
       <int name="35" value="4000015" />
       <int name="36" value="4001368" />
-      <int name="37" value="4001369" />
-      <int name="38" value="4010000" />
-      <int name="39" value="4020006" />
-      <int name="40" value="4030012" />
-      <int name="41" value="4032390" />
+      <int name="37" value="4010000" />
+      <int name="38" value="4020006" />
+      <int name="39" value="4030012" />
+      <int name="40" value="4032390" />
     </imgdir>
     <string name="episode" value=" Lv. :  22\nForm : Plant\n\nA mushroom monster with a bunch of horns on its head. These mushrooms are most often spotted in dark areas such as underground dungeons or in tree dungeons. When the Green Mushroom doesn't get enough sunlight, it apparently loses its poison and starts to grow horns on its head. Remember though, that this doesn't mean that the Horny Mushrooms are without any poison. They can be just as poisonous so don't ever try to eat them! " />
   </imgdir>
@@ -1195,12 +1191,11 @@
       <int name="23" value="4000215" />
       <int name="24" value="4001344" />
       <int name="25" value="4001367" />
-      <int name="26" value="4001368" />
-      <int name="27" value="4006001" />
-      <int name="28" value="4010001" />
-      <int name="29" value="4020007" />
-      <int name="30" value="4031153" />
-      <int name="31" value="4031773" />
+      <int name="26" value="4006001" />
+      <int name="27" value="4010001" />
+      <int name="28" value="4020007" />
+      <int name="29" value="4031153" />
+      <int name="30" value="4031773" />
     </imgdir>
     <string name="episode" value=" Lv. :  22\nForm : Plant\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nA monster with an incredible legend behind it. This Dark Axe Stump is apparently the deeply agitated form of the Axe Stump who'd had an unresolved past life as a tree stump with an axe left in it by some lumberjack. The Dark Axe Stump, just like all the other members of the Stump family of monsters, is extremely strong and is capable of extreme attacks, so all beginners should be very very careful." />
   </imgdir>
@@ -1272,42 +1267,41 @@
       <int name="21" value="1082028" />
       <int name="22" value="1082039" />
       <int name="23" value="1082186" />
-      <int name="24" value="1322001" />
-      <int name="25" value="2000000" />
-      <int name="26" value="2010009" />
-      <int name="27" value="2020014" />
-      <int name="28" value="2040001" />
-      <int name="29" value="2040002" />
-      <int name="30" value="2040301" />
-      <int name="31" value="2040302" />
-      <int name="32" value="2040401" />
-      <int name="33" value="2040402" />
-      <int name="34" value="2040418" />
-      <int name="35" value="2040501" />
-      <int name="36" value="2040601" />
-      <int name="37" value="2040928" />
-      <int name="38" value="2041016" />
-      <int name="39" value="2043114" />
-      <int name="40" value="2043201" />
-      <int name="41" value="2043302" />
-      <int name="42" value="2043701" />
-      <int name="43" value="2043702" />
-      <int name="44" value="2043801" />
-      <int name="45" value="2044001" />
-      <int name="46" value="2044414" />
-      <int name="47" value="2044801" />
-      <int name="48" value="2044902" />
-      <int name="49" value="2060000" />
-      <int name="50" value="2061000" />
-      <int name="51" value="2070000" />
-      <int name="52" value="2210006" />
-      <int name="53" value="2330000" />
-      <int name="54" value="2388000" />
-      <int name="55" value="4000000" />
-      <int name="56" value="4000016" />
-      <int name="57" value="4000019" />
-      <int name="58" value="4010000" />
-      <int name="59" value="4020000" />
+      <int name="24" value="2000000" />
+      <int name="25" value="2010009" />
+      <int name="26" value="2020014" />
+      <int name="27" value="2040001" />
+      <int name="28" value="2040002" />
+      <int name="29" value="2040301" />
+      <int name="30" value="2040302" />
+      <int name="31" value="2040401" />
+      <int name="32" value="2040402" />
+      <int name="33" value="2040418" />
+      <int name="34" value="2040501" />
+      <int name="35" value="2040601" />
+      <int name="36" value="2040928" />
+      <int name="37" value="2041016" />
+      <int name="38" value="2043114" />
+      <int name="39" value="2043201" />
+      <int name="40" value="2043302" />
+      <int name="41" value="2043701" />
+      <int name="42" value="2043702" />
+      <int name="43" value="2043801" />
+      <int name="44" value="2044001" />
+      <int name="45" value="2044414" />
+      <int name="46" value="2044801" />
+      <int name="47" value="2044902" />
+      <int name="48" value="2060000" />
+      <int name="49" value="2061000" />
+      <int name="50" value="2070000" />
+      <int name="51" value="2210006" />
+      <int name="52" value="2330000" />
+      <int name="53" value="2388000" />
+      <int name="54" value="4000000" />
+      <int name="55" value="4000016" />
+      <int name="56" value="4000019" />
+      <int name="57" value="4010000" />
+      <int name="58" value="4020000" />
     </imgdir>
     <string name="episode" value=" Lv. :  20\nForm : Mammal\n\nThe oldest snail in Maple World. It has a huge body that has developed over the years and white mustache that suits his old age. He enjoys the morning dew, so one may frequently spot him wandering around to consume the dew on green leaves every morning. If fortunate enough, one can acquire a Rainbow-colored Snail Shell which is said to grant its owner a wish." />
   </imgdir>
@@ -2255,9 +2249,8 @@
       <int name="25" value="4004001" />
       <int name="26" value="4020001" />
       <int name="27" value="4030014" />
-      <int name="28" value="4031527" />
-      <int name="29" value="4130002" />
-      <int name="30" value="4131001" />
+      <int name="28" value="4130002" />
+      <int name="29" value="4131001" />
     </imgdir>
     <string name="episode" value=" Lv. :  32\nForm : Enchanted\n\nA pink teddy bear manufactured at the toy factory in Ludibrium. It has a cute yellow ribbon around its neck. This monster is controlled by an unknown force originating from the Dimensional Schism. " />
   </imgdir>
@@ -2604,10 +2597,9 @@
       <int name="26" value="4020003" />
       <int name="27" value="4020007" />
       <int name="28" value="4030012" />
-      <int name="29" value="4031524" />
-      <int name="30" value="4130003" />
-      <int name="31" value="4130004" />
-      <int name="32" value="4130012" />
+      <int name="29" value="4130003" />
+      <int name="30" value="4130004" />
+      <int name="31" value="4130012" />
     </imgdir>
     <string name="episode" value=" Lv. :  33\nForm : Mammal\nSpecial Trait : -50% Electricity Attribute Damage. Vulnerable to Ice Attribute Attacks.\n\nA monster that lives in the Garden of Yellow in Orbis. Stay away from its inviting coat of soft white fur that is gold at the tips, as it is saturated with the attribute of electricity! It is still young to know how to attack with its small horn, but it has the attribute of lightning and is resistant to attacks of electricity attribute, so use attacks of ice attribute. " />
   </imgdir>
@@ -5050,21 +5042,21 @@
       <int name="21" value="2040031" />
       <int name="22" value="2040802" />
       <int name="23" value="2040931" />
-      <int name="24" value="2048011" />
-      <int name="25" value="2060000" />
-      <int name="26" value="2061000" />
-      <int name="27" value="2070004" />
-      <int name="28" value="2382067" />
-      <int name="29" value="4000119" />
-      <int name="30" value="4004001" />
-      <int name="31" value="4007007" />
-      <int name="32" value="4010002" />
-      <int name="33" value="4020006" />
-      <int name="34" value="4031105" />
-      <int name="35" value="4031926" />
-      <int name="36" value="4130002" />
-      <int name="37" value="4130004" />
-      <int name="38" value="4130006" />
+      <int name="24" value="2060000" />
+      <int name="25" value="2061000" />
+      <int name="26" value="2070004" />
+      <int name="27" value="2382067" />
+      <int name="28" value="4000119" />
+      <int name="29" value="4004001" />
+      <int name="30" value="4007007" />
+      <int name="31" value="4010002" />
+      <int name="32" value="4020006" />
+      <int name="33" value="4031105" />
+      <int name="34" value="4031926" />
+      <int name="35" value="4130002" />
+      <int name="36" value="4130004" />
+      <int name="37" value="4130006" />
+      <int name="38" value="4240000" />
     </imgdir>
     <string name="episode" value=" Lv. :  45\nForm : Spirit\nSpecial Trait : -50% Electricity Attribute Damage.\n\nThese Grays are unique in that they did not come from another planet but were created here on earth instead. They are the product of Grays who cloned themselves in the hopes of enhancing their abilities. Possessing the main power of Grays, the Ultra Grays use their supernatural powers to attack. According to Dr. Kim of Omega Sector, who has communicated with the Ultra Grays, claims that they are rather aloof and condescending." />
   </imgdir>
@@ -5860,24 +5852,23 @@
       <int name="19" value="2040619" />
       <int name="20" value="2043801" />
       <int name="21" value="2044114" />
-      <int name="22" value="2048011" />
-      <int name="23" value="2060000" />
-      <int name="24" value="2061000" />
-      <int name="25" value="2383011" />
-      <int name="26" value="4000125" />
-      <int name="27" value="4004001" />
-      <int name="28" value="4004003" />
-      <int name="29" value="4006001" />
-      <int name="30" value="4010006" />
-      <int name="31" value="4020008" />
-      <int name="32" value="4021009" />
-      <int name="33" value="4031102" />
-      <int name="34" value="4031106" />
-      <int name="35" value="4031926" />
-      <int name="36" value="4130000" />
-      <int name="37" value="4130006" />
-      <int name="38" value="4130011" />
-      <int name="39" value="4130015" />
+      <int name="22" value="2060000" />
+      <int name="23" value="2061000" />
+      <int name="24" value="2383011" />
+      <int name="25" value="4000125" />
+      <int name="26" value="4004001" />
+      <int name="27" value="4004003" />
+      <int name="28" value="4006001" />
+      <int name="29" value="4010006" />
+      <int name="30" value="4020008" />
+      <int name="31" value="4021009" />
+      <int name="32" value="4031102" />
+      <int name="33" value="4031106" />
+      <int name="34" value="4031926" />
+      <int name="35" value="4130000" />
+      <int name="36" value="4130006" />
+      <int name="37" value="4130011" />
+      <int name="38" value="4130015" />
     </imgdir>
     <string name="episode" value=" Lv. :  49\nForm : Spirit\nSpecial Trait : -50% Damage of All Attributes.\n\nThe highest ranking Gray. The Chief Gray oversees all Grays but can rarely be seen, as it usually hides amongst groups of Grays. The Chief Gray is wise and powerful, and it exercises various supernatural powers. It occasionally summons Grays when necessary." />
   </imgdir>
@@ -5989,26 +5980,25 @@
       <int name="13" value="2000002" />
       <int name="14" value="2000003" />
       <int name="15" value="2000004" />
-      <int name="16" value="2022001" />
-      <int name="17" value="2040321" />
-      <int name="18" value="2040804" />
-      <int name="19" value="2040925" />
-      <int name="20" value="2040933" />
-      <int name="21" value="2043019" />
-      <int name="22" value="2043110" />
-      <int name="23" value="2044602" />
-      <int name="24" value="2383013" />
-      <int name="25" value="4000021" />
-      <int name="26" value="4000048" />
-      <int name="27" value="4003005" />
-      <int name="28" value="4004002" />
-      <int name="29" value="4007000" />
-      <int name="30" value="4007001" />
-      <int name="31" value="4007002" />
-      <int name="32" value="4010002" />
-      <int name="33" value="4020001" />
-      <int name="34" value="4130010" />
-      <int name="35" value="4130011" />
+      <int name="16" value="2040321" />
+      <int name="17" value="2040804" />
+      <int name="18" value="2040925" />
+      <int name="19" value="2040933" />
+      <int name="20" value="2043019" />
+      <int name="21" value="2043110" />
+      <int name="22" value="2044602" />
+      <int name="23" value="2383013" />
+      <int name="24" value="4000021" />
+      <int name="25" value="4000048" />
+      <int name="26" value="4003005" />
+      <int name="27" value="4004002" />
+      <int name="28" value="4007000" />
+      <int name="29" value="4007001" />
+      <int name="30" value="4007002" />
+      <int name="31" value="4010002" />
+      <int name="32" value="4020001" />
+      <int name="33" value="4130010" />
+      <int name="34" value="4130011" />
     </imgdir>
     <string name="episode" value="Lv. :  50\nForm : Mammal\n\nA small yeti often spotted in the snowfield of Ossyria near El Nath. Is made to live in cold climates and can therefore withstand strong Ice Attribute Attacks while being vulnerable to Fire Attribute Attacks. Its small frame and slow movement makes it an easy target, but beware, as many a travellers have been badly injured by this cute little creature. The Jr. Yeti is capable of transforming into a giant yeti as well so watch out!  " />
   </imgdir>
@@ -7054,21 +7044,20 @@
       <int name="17" value="1422029" />
       <int name="18" value="2000003" />
       <int name="19" value="2000004" />
-      <int name="20" value="2022001" />
-      <int name="21" value="2040027" />
-      <int name="22" value="2040317" />
-      <int name="23" value="2043701" />
-      <int name="24" value="2044112" />
-      <int name="25" value="2383033" />
-      <int name="26" value="4000021" />
-      <int name="27" value="4000055" />
-      <int name="28" value="4003004" />
-      <int name="29" value="4004002" />
-      <int name="30" value="4004004" />
-      <int name="31" value="4010005" />
-      <int name="32" value="4020004" />
-      <int name="33" value="4130007" />
-      <int name="34" value="4130017" />
+      <int name="20" value="2040027" />
+      <int name="21" value="2040317" />
+      <int name="22" value="2043701" />
+      <int name="23" value="2044112" />
+      <int name="24" value="2383033" />
+      <int name="25" value="4000021" />
+      <int name="26" value="4000055" />
+      <int name="27" value="4003004" />
+      <int name="28" value="4004002" />
+      <int name="29" value="4004004" />
+      <int name="30" value="4010005" />
+      <int name="31" value="4020004" />
+      <int name="32" value="4130007" />
+      <int name="33" value="4130017" />
     </imgdir>
     <string name="episode" value=" Lv. :  56\nForm : Mammal\nSpecial Trait : Vulnerable to Sanctity Attribute Attacks.\n\nA yeti often spotted in the canyons far away from El Nath. They say that the Dark Jr. Yeti is the evil form of the good Jr. Yeti. It is much faster than the Jr. Yeti and is more advanced in terms of attack powers, defense strength, etc.. It is also made of completely different attributes which makes it particularly vulnerable to forces of Sanctity. " />
   </imgdir>
@@ -7111,16 +7100,15 @@
       <int name="28" value="2383037" />
       <int name="29" value="4000069" />
       <int name="30" value="4001107" />
-      <int name="31" value="4001207" />
-      <int name="32" value="4004000" />
-      <int name="33" value="4007004" />
-      <int name="34" value="4007005" />
-      <int name="35" value="4010000" />
-      <int name="36" value="4020006" />
-      <int name="37" value="4031218" />
-      <int name="38" value="4130001" />
-      <int name="39" value="4130006" />
-      <int name="40" value="4130011" />
+      <int name="31" value="4004000" />
+      <int name="32" value="4007004" />
+      <int name="33" value="4007005" />
+      <int name="34" value="4010000" />
+      <int name="35" value="4020006" />
+      <int name="36" value="4031218" />
+      <int name="37" value="4130001" />
+      <int name="38" value="4130006" />
+      <int name="39" value="4130011" />
     </imgdir>
     <string name="episode" value=" Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Riche's tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Because the Coolie Zombies became zombies to protect the forest against their will, they possess nothing but hostility and hatred towards humans. These monsters, who walk with a severe limp, are the followers of Riche and are extremely dangerous as they orally emit potent poison. " />
   </imgdir>
@@ -7162,14 +7150,13 @@
       <int name="27" value="2383038" />
       <int name="28" value="4000069" />
       <int name="29" value="4000082" />
-      <int name="30" value="4001207" />
-      <int name="31" value="4004002" />
-      <int name="32" value="4010001" />
-      <int name="33" value="4020004" />
-      <int name="34" value="4031218" />
-      <int name="35" value="4130002" />
-      <int name="36" value="4130014" />
-      <int name="37" value="4130015" />
+      <int name="30" value="4004002" />
+      <int name="31" value="4010001" />
+      <int name="32" value="4020004" />
+      <int name="33" value="4031218" />
+      <int name="34" value="4130002" />
+      <int name="35" value="4130014" />
+      <int name="36" value="4130015" />
     </imgdir>
     <string name="episode" value=" Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Riche's tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Whether it was due to an accident in the mine or simply a mutation, but the Miner Zombies have a severe limp and a nearly blind eye on one side." />
   </imgdir>
@@ -8229,17 +8216,16 @@
       <int name="18" value="1472020" />
       <int name="19" value="2000004" />
       <int name="20" value="2000006" />
-      <int name="21" value="2022001" />
-      <int name="22" value="2040401" />
-      <int name="23" value="2040418" />
-      <int name="24" value="2383045" />
-      <int name="25" value="4000050" />
-      <int name="26" value="4004002" />
-      <int name="27" value="4007004" />
-      <int name="28" value="4010001" />
-      <int name="29" value="4020008" />
-      <int name="30" value="4130008" />
-      <int name="31" value="4130015" />
+      <int name="21" value="2040401" />
+      <int name="22" value="2040418" />
+      <int name="23" value="2383045" />
+      <int name="24" value="4000050" />
+      <int name="25" value="4004002" />
+      <int name="26" value="4007004" />
+      <int name="27" value="4010001" />
+      <int name="28" value="4020008" />
+      <int name="29" value="4130008" />
+      <int name="30" value="4130015" />
     </imgdir>
     <string name="episode" value=" Lv. :  60\nForm : Mammal\nSpecial Trait : -50% Ice Attribute Damage. Vulnerable to Fire Attribute Attacks.\n\nA monster that is occasionally found in the snowfield far from El Nath. It wears a golden crown, and can move with finesse even on ice as it has quickly adapted the surroundings of icy snowfield. Now, it can move faster in snowfield than any other monsters, so you should always be on the lookout should this monster begin to attack. Its dashing speed and subsequent attack render Pepe a difficult monster to avoid. Only found in snowfields, Pepes have a very close relationship with the Yetis, which explains why Yetis are occasionally found with a Pepe mounted on their heads, although no one has discovered how this phenomenon was started. " />
   </imgdir>
@@ -8272,26 +8258,25 @@
       <int name="21" value="1452009" />
       <int name="22" value="2000004" />
       <int name="23" value="2000006" />
-      <int name="24" value="2022001" />
-      <int name="25" value="2041001" />
-      <int name="26" value="2043112" />
-      <int name="27" value="2043701" />
-      <int name="28" value="2043801" />
-      <int name="29" value="2044312" />
-      <int name="30" value="2384000" />
-      <int name="31" value="4000128" />
-      <int name="32" value="4004001" />
-      <int name="33" value="4006000" />
-      <int name="34" value="4010001" />
-      <int name="35" value="4010005" />
-      <int name="36" value="4020008" />
-      <int name="37" value="4031170" />
-      <int name="38" value="4031171" />
-      <int name="39" value="4031175" />
-      <int name="40" value="4130004" />
-      <int name="41" value="4130012" />
-      <int name="42" value="4130014" />
-      <int name="43" value="4130015" />
+      <int name="24" value="2041001" />
+      <int name="25" value="2043112" />
+      <int name="26" value="2043701" />
+      <int name="27" value="2043801" />
+      <int name="28" value="2044312" />
+      <int name="29" value="2384000" />
+      <int name="30" value="4000128" />
+      <int name="31" value="4004001" />
+      <int name="32" value="4006000" />
+      <int name="33" value="4010001" />
+      <int name="34" value="4010005" />
+      <int name="35" value="4020008" />
+      <int name="36" value="4031170" />
+      <int name="37" value="4031171" />
+      <int name="38" value="4031175" />
+      <int name="39" value="4130004" />
+      <int name="40" value="4130012" />
+      <int name="41" value="4130014" />
+      <int name="42" value="4130015" />
     </imgdir>
     <string name="episode" value=" Lv. :  61\nForm : Devil\n\nA young spirit of a time stopper who used to work at the Clocktower in Ludibrium in the past. It was mild-tempered before the force of time consumed its spirit. Since then, contrary to what its jester's hat may deceivingly illustrate, it has become hostile and attacks people using the force of entangled time while floating around deep inside the Clocktower. " />
   </imgdir>
@@ -14244,7 +14229,7 @@
       <int name="2" value="2290064" />
       <int name="3" value="2290075" />
       <int name="4" value="2290093" />
-      <int name="5" value="2290111" />
+      <int name="5" value="2290096" />
       <int name="6" value="2388021" />
       <int name="7" value="4001024" />
     </imgdir>

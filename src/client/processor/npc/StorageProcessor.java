@@ -49,6 +49,12 @@ public class StorageProcessor {
                 MapleCharacter chr = c.getPlayer();
                 MapleStorage storage = chr.getStorage();
                 byte mode = slea.readByte();
+                
+                if (chr.isGM()) {
+                    chr.dropMessage(1, "GM characters cannot use storage");
+                    c.announce(MaplePacketCreator.enableActions());
+                    return;
+                }
 
                 if (chr.getLevel() < 15){
                         chr.dropMessage(1, "You may only use the storage once you have reached level 15.");
